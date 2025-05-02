@@ -1,0 +1,22 @@
+{
+  "bikes": [
+    {
+      "id": 1,
+      "model": "Ninja H2R",
+      "year": 2023,
+      "engine": "998cc Supercharged",
+      "price": "฿2,500,000",
+      "description": "The ultimate track-focused hyperbike with supercharged engine",
+      "image": "https://example.com/ninja-h2r.jpg"
+    },
+    {
+      "id": 2,
+      "model": "Ninja ZX-10R",
+      "year": 2023,
+      "engine": "998cc",
+      "price": "฿1,200,000",
+      "description": "World Superbike Championship winning superbike",
+      "image": "https://example.com/zx10r.jpg"
+    }
+  ]
+} 
